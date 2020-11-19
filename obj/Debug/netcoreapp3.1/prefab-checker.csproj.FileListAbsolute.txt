@@ -1,0 +1,13 @@
+/home/benj/repos/csharp/prefab-checker/obj/Debug/netcoreapp3.1/prefab-checker.csprojAssemblyReference.cache
+/home/benj/repos/csharp/prefab-checker/obj/Debug/netcoreapp3.1/prefab-checker.AssemblyInfoInputs.cache
+/home/benj/repos/csharp/prefab-checker/obj/Debug/netcoreapp3.1/prefab-checker.AssemblyInfo.cs
+/home/benj/repos/csharp/prefab-checker/obj/Debug/netcoreapp3.1/prefab-checker.csproj.CoreCompileInputs.cache
+/home/benj/repos/csharp/prefab-checker/bin/Debug/netcoreapp3.1/prefab-checker
+/home/benj/repos/csharp/prefab-checker/bin/Debug/netcoreapp3.1/prefab-checker.deps.json
+/home/benj/repos/csharp/prefab-checker/bin/Debug/netcoreapp3.1/prefab-checker.runtimeconfig.json
+/home/benj/repos/csharp/prefab-checker/bin/Debug/netcoreapp3.1/prefab-checker.runtimeconfig.dev.json
+/home/benj/repos/csharp/prefab-checker/bin/Debug/netcoreapp3.1/prefab-checker.dll
+/home/benj/repos/csharp/prefab-checker/bin/Debug/netcoreapp3.1/prefab-checker.pdb
+/home/benj/repos/csharp/prefab-checker/obj/Debug/netcoreapp3.1/prefab-checker.dll
+/home/benj/repos/csharp/prefab-checker/obj/Debug/netcoreapp3.1/prefab-checker.pdb
+/home/benj/repos/csharp/prefab-checker/obj/Debug/netcoreapp3.1/prefab-checker.genruntimeconfig.cache
